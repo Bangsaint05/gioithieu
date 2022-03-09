@@ -5,10 +5,10 @@
 <meta content='width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0' name='viewport'/>
 <link href='//file.leanhduc.pro.vn/image/favicon.png' rel='shortcut icon' type='image/x-icon'/>
 <meta content='https://i.imgur.com/sClJzm8.jpg' property='og:image'/>
-<meta content='https://codeprof1.blogspot.com/' property='og:url'/>
+<meta content='https://bangsaint05.github.io/dangbang205//' property='og:url'/>
 <meta content='website' property='og:type'/>
-<meta content='Nguyễn Ngọc Thức' property='og:title'/>
-<meta content='Xây dựng và phát triển bởi Nguyễn Minh Hiếu !' property='og:description'/>
+<meta content='Đặng Bá Lê Bằng' property='og:title'/>
+<meta content='Xây dựng và phát triển bởi Đặng Bá Lê Bằng !' property='og:description'/>
 <link href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' rel='stylesheet'/>
 <!-- Bắt đầu css-->
 <style id='page-skin-1' type='text/css'><!--
@@ -37,7 +37,7 @@
 </div>
 <div class='profile-card-inf'>
 <div class='profile-card-inf__item'>
-<div class='profile-card-inf__title' id='count-followers'>12.958.564</div>
+<div class='profile-card-inf__title' id='count-followers'>16.958.564</div>
 <div class='profile-card-inf__txt'>Followers</div>
 </div>
 <div class='profile-card-inf__item'>
