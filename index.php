@@ -26,18 +26,18 @@
 <img alt='profile card' src='/image/profile-card.png'/>
 </div>
 <div class='profile-card__cnt js-profile-cnt'>
-<div class='profile-card__name'> Nguyễn Minh Hiếu <i class='fa fa-check-circle' style='color:rgb(17, 143, 249)' title='Verified Author'></i>
+<div class='profile-card__name'> Đặng Bá Lê Bằng <i class='fa fa-check-circle' style='color:rgb(17, 143, 249)' title='Verified Author'></i>
 </div>
-<div class='profile-card__txt'>Tôi là <b>Nguyễn Minh Hiếu</b>, một cậu sinh học sinh cấp 1 sắp lên cấp 2 yeye chuyên <b>Hỗ trợ Dịch vụ Mạng Xã Hội</b> với ước mơ trở thành một Developer chuyên nghiệp. Tôi thích khám phá, tìm tòi và học hỏi những điều thú vị trên mạng Internet. Biết đôi chút về <i>C/C++/C#, Python, HTML5/CSS3, JavaScript, Node.js, React native</i> ...</div>
+<div class='profile-card__txt'>Tôi là <b>Đặng Bá Lê Bằng</b>, một cậu sinh học sinh cấp 1 sắp lên cấp 2 yeye chuyên <b>Hỗ trợ Dịch vụ Mạng Xã Hội</b> với ước mơ trở thành một Developer chuyên nghiệp. Tôi thích khám phá, tìm tòi và học hỏi những điều thú vị trên mạng Internet. Biết đôi chút về <i>C/C++/C#, Python, HTML5/CSS3, JavaScript, Node.js, React native</i> ...</div>
 <div class='profile-card-loc'>
 <span class='profile-card-loc__icon'>
 <svg class='icon'><use xlink:href='#icon-location'></use></svg>
 </span>
-<span class='profile-card-loc__txt'>Nam Định</span>
+<span class='profile-card-loc__txt'>Hà Tĩnh</span>
 </div>
 <div class='profile-card-inf'>
 <div class='profile-card-inf__item'>
-<div class='profile-card-inf__title' id='count-followers'>19.564</div>
+<div class='profile-card-inf__title' id='count-followers'>12.958.564</div>
 <div class='profile-card-inf__txt'>Followers</div>
 </div>
 <div class='profile-card-inf__item'>
@@ -54,7 +54,7 @@
 </div>
 </div>
 <div class='profile-card-social'>
-<a class='profile-card-social__item facebook' href='https://www.facebook.com/02.nmhieu' target='_blank'>
+<a class='profile-card-social__item facebook' href='https://www.facebook.com/bangsaint.05/' target='_blank'>
 <span class='icon-font'>
 <svg class='icon'><use xlink:href='#icon-facebook'></use></svg>
 </span>
@@ -67,7 +67,7 @@
 </div>
 <div class='profile-card-ctr'>
 <button class='profile-card__button button--blue js-message-btn'>Message</button>
-<button class='profile-card__button button--orange' onclick='window.open(&#39;https://www.facebook.com/Thuc9999;)'>Follow</button>
+<button class='profile-card__button button--orange' onclick='window.open(&#39;https://www.facebook.com/bangsaint.05/;)'>Follow</button>
 </div>
 </div>
 <div class='profile-card-message js-message'>
